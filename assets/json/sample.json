@@ -1,0 +1,14 @@
+{
+    "name": "M.ARYA ARDIANSYAH",
+    "age": 20,
+    "hobby": [
+        "Coding",
+        "Camping",
+        "Ndaki"
+    ],
+    "github": {
+        "username" : "@yuzakionly",
+        "repositories" : 2897,
+        "isGDE" : true
+    }
+}
