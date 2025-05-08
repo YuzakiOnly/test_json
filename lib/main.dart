@@ -27,6 +27,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Fundamental Parsing JSON',
       home: Scaffold(
         backgroundColor: Colors.white,
@@ -52,7 +53,7 @@ class _MyAppState extends State<MyApp> {
               Padding(
                 padding: EdgeInsets.all(16.0),
                 child: Text(
-                  '${result?.name}',
+                  '${result?.articles?.first}',
                   style: const TextStyle(
                     fontSize: 22.0,
                     color: Colors.black,

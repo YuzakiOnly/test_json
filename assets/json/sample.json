@@ -7,8 +7,35 @@
         "Ndaki"
     ],
     "github": {
-        "username" : "@yuzakionly",
+        "username" : "YuzakiOnly",
         "repositories" : 2897,
         "isGDE" : true
+    },
+    "articles": [
+        {
+            "id": 1,
+            "title": "God Of War",
+            "subtitle": "that is Action"
+        },
+        {
+            "id": 2,
+            "title": "Aku Cinta Dia",
+            "subtitle": "that is Romance"
+        },
+        {
+            "id": 3,
+            "title": "Jika Esok Ibu Tiada",
+            "subtitle": "that is Sadness"
+        }
+    ],
+    "contacts": {
+        "1":{
+            "name": "Ghaffar",
+            "contact": "2184327489"
+        },
+        "2":{
+            "name": "Ghaffar",
+            "contact": "2184327489"
+        }
     }
 }
