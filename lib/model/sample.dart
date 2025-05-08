@@ -18,9 +18,9 @@ class Sample {
 }
 
 class Github {
-  final String? username;
-  final int? repositories;
-  final bool? isGDE;
+  // final String? username;
+  // final int? repositories;
+  // final bool? isGDE;
 
-  Github({this.username, this.repositories, this.isGDE});
+  // Github({this.username, this.repositories, this.isGDE});
 }
